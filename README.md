@@ -15,7 +15,7 @@ Clone this repo using git
 
 Copy file
   
-    cp irbrc ~/.
+    cp irbrc ~/.irbrc
 
 Run `irb` or `rails c` and enjoy!
 
